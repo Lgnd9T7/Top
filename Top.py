@@ -49,7 +49,7 @@ def o():
     jalan('\tðŸ”¥ðŸ”¥RANDOM NUMBER CRACKðŸ”¥ðŸ”¥')
     print('')
     jalan('\x1b[1;32m [1]\x1b[1;33m RANDOM CRACK ')
-    jalan('\x1b[1;32m [2] \x1b[1;32mSUBSCRIBE MY CHANNEL)
+    jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON FACEBOOK')
     jalan(' \x1b[1;32m[3] \x1b[1;32mSUBSCRIBE MY CHANNEL')
     jalan(' \x1b[1;32m[4] \x1b[1;32mSUBSCRIBE MY CHANNEL)
     jalan(' \x1b[1;32m[00] \x1b[1;31mEXIT')
@@ -57,7 +57,7 @@ def o():
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdg-open https://youtube.com/channel/UC7VzQau0F-tsOkRcksAmmxw')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100085893367182')
         return None
     if None == '3':
         os.system('xdg-open https://youtube.com/channel/UC7VzQau0F-tsOkRcksAmmxw')
